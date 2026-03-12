@@ -2,7 +2,6 @@
 
 **LegalClear AI** is a premium, high-class legal intelligence platform designed to demystify complex legal architectures, contracts, and Term of Service (TOS) agreements. Built with a sophisticated **Black & White Editorial UI**, it transforms dense legal text into actionable guidance using Google Gemini AI.
 
-![Hero Image](https://raw.githubusercontent.com/username/repo/main/hero.png) *(Placeholder for your project screenshot)*
 
 ---
 
