@@ -1,0 +1,42 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environments & Sensitive Data
+.env
+.env.local
+.env.*.local
+venv/
+env/
+.venv/
+workspace.code-workspace
+
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Production Builds
+dist/
+build/
+out/
+
+# Backend specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+celerybeat-schedule
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Local Persistence & Uploads
+data/
+backend/data/
+backend/uploads/
+*.log
