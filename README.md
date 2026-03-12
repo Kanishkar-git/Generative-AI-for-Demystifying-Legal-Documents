@@ -6,6 +6,8 @@ The platform uses **Generative AI and Retrieval-Augmented Generation (RAG)** to 
 
 Users can upload documents and interact with them through an **AI assistant** that summarizes content, explains clauses, and highlights potential risks.
 
+Link : https://generative-ai-for-demystifying-legal-do-kanishkar-gits-projects.vercel.app/
+
 ---
 
 # 🚀 Key Features
