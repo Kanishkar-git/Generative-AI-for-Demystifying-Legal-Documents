@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_URL || 'https://generative-ai-for-demystifying-legal-w547.onrender.com/';
+const API_BASE = import.meta.env.VITE_API_URL || 'https://generative-ai-for-demystifying-legal-w547.onrender.com';
 
 const api = {
   // ── Health ──────────────────────────────────────────────────────────────────
